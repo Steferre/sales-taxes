@@ -1,0 +1,1 @@
+console.log('ciao da script prova.js');
